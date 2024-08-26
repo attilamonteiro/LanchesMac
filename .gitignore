@@ -1,0 +1,28 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.psess
+
+# Resharper
+*.DotSettings.user
+*.sln.DotSettings
+
+# User-specific files
+*.rsuser
+*.resharper
+*.cache
+*.sln.iml
+
+# Build results
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
